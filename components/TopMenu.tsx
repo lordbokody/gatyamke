@@ -43,7 +43,7 @@ export default function TopMenu() {
   return (
     <nav className="flex items-center justify-between py-6 fixed bg-white top-0 left-0 w-full lg:w-[1160px] lg:left-1/2 lg:-translate-x-1/2 px-6 lg:px-0 z-50">
       <Link href="/" className="flex-shrink-0" onClick={handleLogoClick}>
-        <Image
+        <img
           src="/logo2.png"
           alt="Logo"
           width={150}
