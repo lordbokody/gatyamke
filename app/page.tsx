@@ -43,6 +43,8 @@ export default function Home() {
             <a href="https://index.hu/belfold/2025/11/25/kepzomuveszeti-egyetem-hallgatok-birosag-itelet-felmentes-szexualis-eroszak-veres-lepedo/?token=4666d3b44da683609cb4b4eaaec03415" target="_blank" className="underline">Index cikk</a>
             <br />
             <a href="https://www.youtube.com/watch?v=rsoyZnjmYik" target="_blank" className="underline">ATV riport Mérő Verával</a>
+            <br />
+            <a href="https://eduline.hu/felsooktatas/20251126_MKE_szexualis_eroszak_hallgatoi_forum_kancellaria" target="_blank" className="underline">eduline cikk</a>
           </p>
       </div>
 
