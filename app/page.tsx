@@ -4,7 +4,7 @@ import Card from "@/components/Card";
 export default function Home() {
   const text = {
     bevezeto: `Bokody Ákos vagyok, jelenleg a Magyar Képzőművészeti Egyetem negyedéves festőművész szakos hallgatója. A Gatya MKE weboldal az egyetemen folyamatban lévő nemi erőszak ügyével foglalkozik. Az oldalon kifejtésre kerül a saját véleményem, valamint összegyűjtöttem az esettel kapcsolatos összes fontos sajtómegjelenést.\n
-            A weboldal címében szereplő 'gatya' szó arra a tudatállapatra utal, amelyben a 2025. november 25-ei hallgatói fórum alatt voltam: az agyam helyén csak egy széthasznált gatyát tudtam elképzelni. Emellett véleményem szerint tökéletesen alliterál a vezetőség kompetenciájával is.\n
+            A weboldal címében szereplő 'gatya' szó arra a tudatállapotra utal, amelyben a 2025. november 25-ei hallgatói fórum alatt voltam: az agyam helyén csak egy széthasznált gatyát tudtam elképzelni. Emellett véleményem szerint tökéletesen alliterál a vezetőség kompetenciájával is.\n
             A teljes kontextus megértéséhez kérem az olvasót, hogy véleményem elolvasása előtt tekintse át a linktárban található forrásokat, amennyiben még nem ismeri az ügyet. A teljes helyzetet itt nem kívánom elölről felvázolni.`,
     velemeny: `A 2025. november 25-ei hallgatói fórum a vezetőség morális romlottságának teljes lelepleződése volt. Az arrogancia, az emberi érzéketlenség, a cinikus ignorancia, a felelősség tagadása és az egyetemi polgárság semmibevétele – mindez együtt olyan züllöttség képét rajzolja, amely már áthatja az intézmény minden rétegét. A fórumon elhangzottakat nem kívánom minden részletében elemezni – nem dokumentáció a célom. Aki részt vett, úgy vélem, élete egyik legvisszataszítóbb élményével lett gazdagabb. Aki távol maradt, nem biztos, hogy veszített.
 \nKritikámat azzal kezdem, hogy tisztázzam: mit jelent számomra a vezetői szerep. Aki vezetői pozíciót vállal – legyen szó intézményről vagy munkahelyről –, azzal erkölcsi felelősséget is magára vállal. Vállalja, hogy a közösség gerincoszlopa lesz: aki példát mutat, akire támaszkodni lehet, akihez bármilyen ügyben fordulni mernek. A vezető nem pusztán adminisztrátor vagy menedzser – hanem a közösség morális centruma. A Képző vezetősége azonban ezek közül egyetlen elvárásnak sem felel meg. Csupán a hideg karrierizmus és a steril szakmaiság vezérli őket; valódi vezetésre alkalmatlanok. Az egyetemi vezetés hatalomgyakorlását Hamvas Béla gondolata írja le a legpontosabban: “A klerikalizmus már a tizenötödik században üdvgépezetté alakult át,  amelyben automatikusan minden bűncselekmény alól a felmentés elérhető  volt. Úgy látszott ez a gépezet a felvilágosodással megszűnt. Bizonyos  időnek el kellett telnie ahhoz, hogy az ember észrevegye: az üzem még  hatásosabban működik. De most nem az üdv kérdése, hanem maga a teljes  élet gépiesedett el. Az a hiedelem terjedt el, hogy az egész létező  világ, lélek, élet, vallás, gondolkozás tulajdonképpen egyetlen  kolosszális, ésszerűen megszerkesztett apparátus. Nincs szükség arra,  hogy a lét értelmére vonatkozóan nem mechanikus elemeket is felvegyünk.  Bizonytalan tényezőkre szükség nincs; Isten, lélek, akaratszabadság  elvégre nem is bizonyítható, mondja Kant. Az emberi létezést nem  gondolat vagy szellem, de még csak élet sem, hanem a mechanon irányítja.  Az ember az apparátusban maga is apparátus és nagyobb üzem alkatrésze,  nem spirituális lény, hanem funkció. "
@@ -44,7 +44,13 @@ export default function Home() {
             <br />
             <a href="https://www.youtube.com/watch?v=rsoyZnjmYik" target="_blank" className="underline">ATV riport Mérő Verával</a>
             <br />
-            <a href="https://eduline.hu/felsooktatas/20251126_MKE_szexualis_eroszak_hallgatoi_forum_kancellaria" target="_blank" className="underline">eduline cikk</a>
+            <a href="https://eduline.hu/felsooktatas/20251126_MKE_szexualis_eroszak_hallgatoi_forum_kancellaria" target="_blank" className="underline">Eduline cikk</a>
+            <br />
+            <a href="https://kepzosok.unifront.hu/" target="_blank" className="underline">Képzősök Fóruma</a>
+            <br />
+            <a href="https://hallgatashelyett.hu/" target="_blank" className="underline">Hallgatás Helyett </a>
+            <br />
+            <a href="https://youtu.be/-4RBgMws4uc?si=GIBuXu2IEv4Wtt7S" target="_blank" className="underline">ZSSHOW time  beszámoló videó</a>
           </p>
       </div>
 
