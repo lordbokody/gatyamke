@@ -50,7 +50,7 @@ export default function Home() {
             <br />
             <a href="https://hallgatashelyett.hu/" target="_blank" className="underline">Hallgatás Helyett </a>
             <br />
-            <a href="https://youtu.be/-4RBgMws4uc?si=GIBuXu2IEv4Wtt7S" target="_blank" className="underline">ZSSHOW time  beszámoló videó</a>
+            <a href="https://youtu.be/-4RBgMws4uc?si=GIBuXu2IEv4Wtt7S" target="_blank" className="underline">ZSSHOW time beszámoló videó</a>
           </p>
       </div>
 
