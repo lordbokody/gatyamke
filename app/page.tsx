@@ -51,6 +51,10 @@ export default function Home() {
             <a href="https://hallgatashelyett.hu/" target="_blank" className="underline">Hallgatás Helyett </a>
             <br />
             <a href="https://youtu.be/-4RBgMws4uc?si=GIBuXu2IEv4Wtt7S" target="_blank" className="underline">ZSSHOW time beszámoló videó</a>
+            <br />
+            <a href="https://444.hu/2025/11/30/uzenetben-ismerte-be-az-eroszakot-a-birosag-felmentette-az-egyetem-pedig-szettarta-karjait" target="_blank" className="underline">444 cikk</a>
+            <br />
+            <a href="https://substack.com/home/post/p-180312356" target="_blank" className="underline">„Az áldozat pajzsa alatt" - Mérő Vera cikke</a>
           </p>
       </div>
 
