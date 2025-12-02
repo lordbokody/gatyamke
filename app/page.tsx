@@ -55,6 +55,10 @@ export default function Home() {
             <a href="https://444.hu/2025/11/30/uzenetben-ismerte-be-az-eroszakot-a-birosag-felmentette-az-egyetem-pedig-szettarta-karjait" target="_blank" className="underline">444 cikk</a>
             <br />
             <a href="https://substack.com/home/post/p-180312356" target="_blank" className="underline">„Az áldozat pajzsa alatt" - Mérő Vera cikke</a>
+            <br />
+            <a href="https://www.glamour.hu/g-eletstilus/mero-vera-interju-magyar-kepzomuveszeti-egyetem-megeroszakolt-diak/13jdll6" target="_blank" className="underline">Glamour - Mérő Vera interjúja az áldozattal</a>
+            <br />
+            <a href="https://444.hu/2025/12/02/a-hallgatok-elertek-hogy-a-kepzomuveszeti-egyetemen-vizsgaljak-felul-az-eroszakos-buncselekmenyekre-vonatkozo-szabalyozast" target="_blank" className="underline">444 cikk</a>
           </p>
       </div>
 
